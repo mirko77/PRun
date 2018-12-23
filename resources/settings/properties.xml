@@ -5,8 +5,8 @@
 	<property id="Area3" type="number">0</property>
 	<property id="Area4" type="number">5</property>
 	
-	<property id="Area5" type="number">16</property>
-	<property id="Area6" type="number">15</property>
+	<property id="Area5" type="number">7</property>
+	<property id="Area6" type="number">0</property>
 	<property id="Area7" type="number">6</property>
 	
 	<property id="Area10" type="number">20</property>

@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="3" lineNum="371" pc="268435456" symbol="getParameter"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="3" lineNum="373" pc="268435460" symbol="getParameter"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="3" lineNum="374" pc="268435487" symbol="getParameter"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="3" lineNum="375" pc="268435494" symbol="getParameter"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="3" lineNum="376" pc="268435498" symbol="getParameter"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="3" lineNum="379" pc="268435529" symbol="getParameter"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="3" lineNum="379" pc="268435543" symbol="getParameter"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="3" lineNum="380" pc="268435548" symbol="getParameter"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="384" pc="268435552" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="386" pc="268435556" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="387" pc="268435573" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="388" pc="268435602" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="389" pc="268435631" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="391" pc="268435660" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="392" pc="268435673" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="425" pc="268435702" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="426" pc="268435718" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="427" pc="268435750" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="428" pc="268435782" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="429" pc="268435814" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="430" pc="268435846" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="431" pc="268435878" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="432" pc="268435910" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="433" pc="268435926" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="434" pc="268435942" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="436" pc="268435974" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="437" pc="268436009" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="438" pc="268436052" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="4" lineNum="439" pc="268436068" symbol="initializeUserData"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="457" pc="268436085" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="459" pc="268436089" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="461" pc="268436103" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="465" pc="268436112" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="467" pc="268436143" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="470" pc="268436152" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="472" pc="268436166" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="475" pc="268436175" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="477" pc="268436189" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="480" pc="268436208" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="482" pc="268436222" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="485" pc="268436231" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="487" pc="268436279" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="5" lineNum="490" pc="268436288" symbol="initDataVariables"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="494" pc="268436295" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="496" pc="268436299" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="497" pc="268436317" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="499" pc="268436329" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="500" pc="268436356" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="501" pc="268436383" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="502" pc="268436410" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="503" pc="268436437" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="504" pc="268436464" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="505" pc="268436491" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="506" pc="268436518" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="507" pc="268436545" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="508" pc="268436572" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="510" pc="268436599" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="511" pc="268436615" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="513" pc="268436655" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="514" pc="268436662" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="515" pc="268436669" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="517" pc="268436682" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="518" pc="268436704" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="520" pc="268436726" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="521" pc="268436742" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="522" pc="268436764" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="523" pc="268436786" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="525" pc="268436808" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="526" pc="268436815" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="527" pc="268436828" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="528" pc="268436835" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="530" pc="268436842" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="532" pc="268436905" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="533" pc="268436959" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="535" pc="268437013" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="536" pc="268437067" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="538" pc="268437121" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="539" pc="268437175" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="541" pc="268437229" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="542" pc="268437283" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="544" pc="268437337" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="545" pc="268437391" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="547" pc="268437445" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="548" pc="268437499" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="550" pc="268437553" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="551" pc="268437622" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="553" pc="268437706" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="555" pc="268437775" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="557" pc="268437792" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="558" pc="268437799" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="559" pc="268437815" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="561" pc="268437831" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="562" pc="268437847" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="564" pc="268437863" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="565" pc="268437879" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="568" pc="268437898" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="570" pc="268437915" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="571" pc="268437922" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="572" pc="268437938" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="574" pc="268437954" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="575" pc="268437970" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="577" pc="268437986" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="578" pc="268438002" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="582" pc="268438021" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="583" pc="268438106" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="584" pc="268438122" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="585" pc="268438138" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="587" pc="268438154" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="588" pc="268438239" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="589" pc="268438255" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="590" pc="268438271" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="592" pc="268438287" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="593" pc="268438337" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="594" pc="268438353" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="596" pc="268438369" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="596" pc="268438382" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="597" pc="268438401" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="598" pc="268438414" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="599" pc="268438439" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="602" pc="268438467" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="603" pc="268438510" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="604" pc="268438519" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="605" pc="268438528" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="6" lineNum="606" pc="268438544" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="611" pc="268438573" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="613" pc="268438577" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="615" pc="268438604" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="619" pc="268438662" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="621" pc="268438669" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="623" pc="268438676" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="624" pc="268438680" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="627" pc="268438686" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="629" pc="268438693" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="630" pc="268438697" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="634" pc="268438706" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="636" pc="268438723" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="637" pc="268438727" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="640" pc="268438733" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="642" pc="268438750" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="642" pc="268438757" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="643" pc="268438776" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="646" pc="268438795" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="648" pc="268438802" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="649" pc="268438809" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="650" pc="268438831" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="652" pc="268438853" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="653" pc="268438875" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="654" pc="268438897" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="655" pc="268438919" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="7" lineNum="659" pc="268438947" symbol="mergeArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="8" lineNum="664" pc="268438985" symbol="onLayout"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="9" lineNum="670" pc="268438990" symbol="onTimerLap"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="9" lineNum="672" pc="268438994" symbol="onTimerLap"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="9" lineNum="673" pc="268439010" symbol="onTimerLap"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="10" lineNum="677" pc="268439027" symbol="onWorkoutStepComplete"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="10" lineNum="679" pc="268439031" symbol="onWorkoutStepComplete"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="683" pc="268439044" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="685" pc="268439048" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="685" pc="268439059" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="686" pc="268439072" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="686" pc="268439083" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="687" pc="268439096" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="687" pc="268439107" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="688" pc="268439120" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="688" pc="268439131" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="689" pc="268439144" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="689" pc="268439155" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="690" pc="268439168" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="690" pc="268439179" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="691" pc="268439192" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="691" pc="268439203" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="692" pc="268439216" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="692" pc="268439227" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="693" pc="268439240" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="693" pc="268439251" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="694" pc="268439264" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="11" lineNum="694" pc="268439275" symbol="configureID"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="12" lineNum="698" pc="268439289" symbol="calculateETA"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="12" lineNum="700" pc="268439293" symbol="calculateETA"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="12" lineNum="701" pc="268439312" symbol="calculateETA"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="12" lineNum="702" pc="268439323" symbol="calculateETA"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="12" lineNum="702" pc="268439330" symbol="calculateETA"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="12" lineNum="703" pc="268439349" symbol="calculateETA"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="12" lineNum="706" pc="268439355" symbol="calculateETA"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="12" lineNum="706" pc="268439372" symbol="calculateETA"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="12" lineNum="707" pc="268439378" symbol="calculateETA"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="13" lineNum="714" pc="268439400" symbol="convertUnitIfRequired"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="13" lineNum="716" pc="268439404" symbol="convertUnitIfRequired"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="13" lineNum="716" pc="268439412" symbol="convertUnitIfRequired"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="13" lineNum="717" pc="268439421" symbol="convertUnitIfRequired"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="721" pc="268439425" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="724" pc="268439429" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="727" pc="268439442" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="731" pc="268439467" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="733" pc="268439480" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="737" pc="268439532" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="739" pc="268439545" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="743" pc="268439564" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="745" pc="268439578" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="749" pc="268439590" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="751" pc="268439604" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="755" pc="268439616" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="757" pc="268439646" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="761" pc="268439658" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="763" pc="268439688" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="763" pc="268439705" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="764" pc="268439714" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="768" pc="268439759" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="770" pc="268439773" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="770" pc="268439790" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="771" pc="268439799" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="775" pc="268439844" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="777" pc="268439874" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="781" pc="268439919" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="783" pc="268439933" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="787" pc="268439952" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="789" pc="268439983" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="791" pc="268440020" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="792" pc="268440045" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="793" pc="268440078" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="796" pc="268440097" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="800" pc="268440142" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="802" pc="268440156" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="806" pc="268440168" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="808" pc="268440182" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="812" pc="268440203" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="814" pc="268440217" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="818" pc="268440238" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="820" pc="268440252" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="824" pc="268440273" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="826" pc="268440287" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="827" pc="268440306" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="829" pc="268440325" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="829" pc="268440336" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="830" pc="268440345" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="834" pc="268440354" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="836" pc="268440384" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="840" pc="268440432" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="842" pc="268440462" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="846" pc="268440474" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="848" pc="268440504" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="852" pc="268440516" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="854" pc="268440546" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="858" pc="268440558" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="860" pc="268440572" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="864" pc="268440604" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="866" pc="268440618" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="870" pc="268440650" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="872" pc="268440664" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="876" pc="268440696" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="878" pc="268440710" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="882" pc="268440735" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="884" pc="268440765" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="884" pc="268440782" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="885" pc="268440791" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="889" pc="268440812" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="891" pc="268440826" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="895" pc="268440871" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="897" pc="268440901" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="901" pc="268440913" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="903" pc="268440943" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="907" pc="268440955" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="909" pc="268440985" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="913" pc="268441033" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="915" pc="268441063" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="14" lineNum="925" pc="268441111" symbol="computeValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1211" pc="268441115" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1213" pc="268441119" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1215" pc="268441161" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1216" pc="268441203" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1217" pc="268441245" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1219" pc="268441287" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1220" pc="268441329" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1221" pc="268441371" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1224" pc="268441413" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1225" pc="268441455" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="15" lineNum="1227" pc="268441497" symbol="compute"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1233" pc="268441540" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1236" pc="268441544" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1237" pc="268441588" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1238" pc="268441639" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1239" pc="268441690" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1240" pc="268441741" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1241" pc="268441792" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1242" pc="268441843" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1243" pc="268441894" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1244" pc="268441938" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1245" pc="268441982" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1247" pc="268442026" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1249" pc="268442101" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1250" pc="268442118" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1251" pc="268442174" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1252" pc="268442269" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1256" pc="268442289" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1257" pc="268442325" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1258" pc="268442378" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1259" pc="268442431" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1260" pc="268442484" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="16" lineNum="1261" pc="268442537" symbol="onUpdate"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1265" pc="268442591" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1267" pc="268442595" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1267" pc="268442602" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1268" pc="268442606" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1269" pc="268442613" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1272" pc="268442620" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1275" pc="268442645" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1276" pc="268442670" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1279" pc="268442695" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1280" pc="268442731" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1281" pc="268442775" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1283" pc="268442792" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1284" pc="268442828" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1288" pc="268442884" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1288" pc="268442901" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1289" pc="268442934" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1289" pc="268442963" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1290" pc="268442996" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1290" pc="268443049" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1291" pc="268443062" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1291" pc="268443115" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1292" pc="268443128" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1293" pc="268443181" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1294" pc="268443217" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1295" pc="268443297" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1299" pc="268443312" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1300" pc="268443337" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1301" pc="268443362" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1302" pc="268443387" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1302" pc="268443398" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1307" pc="268443414" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1308" pc="268443451" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1310" pc="268443495" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1312" pc="268443540" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1313" pc="268443576" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1316" pc="268443632" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1318" pc="268443646" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1319" pc="268443696" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1319" pc="268443713" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1320" pc="268443746" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1320" pc="268443775" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1322" pc="268443808" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1323" pc="268443837" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1327" pc="268443902" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1327" pc="268443919" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1328" pc="268443952" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1328" pc="268443981" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1329" pc="268444014" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1330" pc="268444067" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1332" pc="268444108" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1334" pc="268444130" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1336" pc="268444144" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1337" pc="268444154" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1338" pc="268444170" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1339" pc="268444186" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1340" pc="268444223" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1343" pc="268444284" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1345" pc="268444298" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1346" pc="268444308" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1349" pc="268444339" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1351" pc="268444353" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1352" pc="268444363" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1357" pc="268444415" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1359" pc="268444434" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1361" pc="268444504" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1362" pc="268444530" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1363" pc="268444559" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1364" pc="268444622" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1370" pc="268444691" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="17" lineNum="1374" pc="268444765" symbol="displayArea"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1378" pc="268444778" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1380" pc="268444782" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1380" pc="268444789" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1382" pc="268444798" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1385" pc="268445407" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1397" pc="268445413" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1401" pc="268445419" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1407" pc="268445425" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1416" pc="268445431" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1419" pc="268445437" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1422" pc="268445443" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1428" pc="268445449" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1434" pc="268445455" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1437" pc="268445461" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1440" pc="268445467" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1446" pc="268445473" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1449" pc="268445479" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1458" pc="268445485" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1506" pc="268445491" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1536" pc="268445519" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1539" pc="268445525" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1542" pc="268445553" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1545" pc="268445559" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1548" pc="268445565" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1551" pc="268445571" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1554" pc="268445577" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1563" pc="268445583" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1566" pc="268445589" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1569" pc="268445595" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1572" pc="268445601" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="18" lineNum="1575" pc="268445607" symbol="getHeaderName"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="19" lineNum="1579" pc="268445614" symbol="getHour"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="19" lineNum="1582" pc="268445618" symbol="getHour"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="19" lineNum="1584" pc="268445618" symbol="getHour"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="19" lineNum="1584" pc="268445642" symbol="getHour"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="19" lineNum="1586" pc="268445648" symbol="getHour"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="19" lineNum="1588" pc="268445659" symbol="getHour"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="19" lineNum="1590" pc="268445669" symbol="getHour"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="19" lineNum="1592" pc="268445695" symbol="getHour"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="19" lineNum="1596" pc="268445701" symbol="getHour"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1600" pc="268445705" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1602" pc="268445709" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1602" pc="268445716" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1604" pc="268445725" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1607" pc="268446048" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1615" pc="268446054" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1623" pc="268446070" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1626" pc="268446086" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1626" pc="268446151" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1627" pc="268446203" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1630" pc="268446252" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1630" pc="268446266" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="20" lineNum="1631" pc="268446283" symbol="getFormattedValue"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1635" pc="268446296" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1637" pc="268446300" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1638" pc="268446307" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1640" pc="268446314" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1642" pc="268446339" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1645" pc="268446349" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1647" pc="268446360" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1648" pc="268446383" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1648" pc="268446391" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1649" pc="268446403" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1652" pc="268446416" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1654" pc="268446427" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1655" pc="268446450" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1655" pc="268446458" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1656" pc="268446470" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1659" pc="268446483" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1661" pc="268446494" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1662" pc="268446517" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1662" pc="268446525" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1663" pc="268446537" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1666" pc="268446550" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1668" pc="268446561" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1669" pc="268446584" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1669" pc="268446592" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1670" pc="268446604" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="21" lineNum="1673" pc="268446617" symbol="getFont"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1677" pc="268446627" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1679" pc="268446631" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1680" pc="268446645" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1682" pc="268446659" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1683" pc="268446692" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1684" pc="268446706" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1687" pc="268446723" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1687" pc="268446730" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1689" pc="268446736" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1690" pc="268446761" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="22" lineNum="1693" pc="268446767" symbol="getBackgroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1697" pc="268446771" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1699" pc="268446775" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1700" pc="268446789" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1702" pc="268446803" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1703" pc="268446836" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1704" pc="268446850" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1707" pc="268446867" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1707" pc="268446874" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1709" pc="268446880" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1713" pc="268447027" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1715" pc="268447056" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1715" pc="268447081" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1716" pc="268447087" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1719" pc="268447093" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1719" pc="268447113" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1720" pc="268447122" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1720" pc="268447142" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1721" pc="268447151" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1721" pc="268447171" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1722" pc="268447180" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1722" pc="268447200" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1723" pc="268447209" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1729" pc="268447215" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1729" pc="268447226" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1730" pc="268447262" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1730" pc="268447276" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1731" pc="268447292" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1731" pc="268447306" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1732" pc="268447322" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1735" pc="268447335" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1735" pc="268447360" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="23" lineNum="1736" pc="268447366" symbol="getForegroundColor"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="24" lineNum="1740" pc="268447370" symbol="getWidth"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="24" lineNum="1742" pc="268447374" symbol="getWidth"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="24" lineNum="1743" pc="268447411" symbol="getWidth"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="24" lineNum="1744" pc="268447427" symbol="getWidth"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="24" lineNum="1745" pc="268447489" symbol="getWidth"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="24" lineNum="1750" pc="268447553" symbol="getWidth"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="25" lineNum="1754" pc="268447563" symbol="formatFloat"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="25" lineNum="1758" pc="268447567" symbol="formatFloat"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="25" lineNum="1758" pc="268447578" symbol="formatFloat"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="25" lineNum="1759" pc="268447619" symbol="formatFloat"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1763" pc="268447658" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1765" pc="268447662" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1765" pc="268447676" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1766" pc="268447682" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1768" pc="268447695" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1769" pc="268447702" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1771" pc="268447709" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1773" pc="268447717" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1774" pc="268447727" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1779" pc="268447746" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1780" pc="268447756" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1780" pc="268447767" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1783" pc="268447776" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="26" lineNum="1784" pc="268447786" symbol="formatDuration"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1788" pc="268447889" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1790" pc="268447893" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1791" pc="268447909" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1792" pc="268447922" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1793" pc="268447935" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1794" pc="268447942" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1796" pc="268447955" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1798" pc="268447966" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1803" pc="268448005" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1806" pc="268448041" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1807" pc="268448088" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1808" pc="268448135" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1809" pc="268448182" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1811" pc="268448229" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1830" pc="268448317" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1831" pc="268448353" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1814" pc="268448359" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1815" pc="268448395" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1818" pc="268448398" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1819" pc="268448434" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1822" pc="268448437" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1823" pc="268448473" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1826" pc="268448476" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1827" pc="268448512" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1834" pc="268448518" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1838" pc="268448609" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1841" pc="268448656" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1844" pc="268448703" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="27" lineNum="1847" pc="268448750" symbol="drawGPS"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1851" pc="268448798" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1853" pc="268448802" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1854" pc="268448827" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1855" pc="268448837" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1856" pc="268448859" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1858" pc="268448881" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1859" pc="268448917" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1861" pc="268448938" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1862" pc="268448974" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1864" pc="268449005" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1865" pc="268449041" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1867" pc="268449066" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1868" pc="268449102" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1870" pc="268449151" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1872" pc="268449159" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1878" pc="268449198" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1879" pc="268449232" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1880" pc="268449245" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1881" pc="268449281" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1883" pc="268449322" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1884" pc="268449333" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1888" pc="268449372" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunView.mc" id="28" lineNum="1892" pc="268449408" symbol="drawBattery"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunApp.mc" id="30" lineNum="5" pc="268449486" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunApp.mc" id="30" lineNum="7" pc="268449490" symbol="initialize"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunApp.mc" id="31" lineNum="11" pc="268449509" symbol="onStart"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunApp.mc" id="32" lineNum="15" pc="268449514" symbol="onStop"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunApp.mc" id="33" lineNum="19" pc="268449519" symbol="getInitialView"/>
+<entry filename="/Users/mirko/eclipse-workspace/PRun/source/PRunApp.mc" id="33" lineNum="21" pc="268449523" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="111" symbol="&lt;globals_PRunView_&lt;&gt;fontTiny&gt;"/>
+<entry field="true" id="36" symbol="DeviceModel"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="66" symbol="&lt;globals_PRunView_&lt;&gt;isElevationUnitsImperial&gt;"/>
+<entry field="true" id="112" symbol="&lt;globals_PRunView_&lt;&gt;fontTinyHeader&gt;"/>
+<entry field="true" id="88" symbol="&lt;globals_PRunView_&lt;&gt;v8data&gt;"/>
+<entry id="8390685" method="true" symbol="onWorkoutStepComplete"/>
+<entry field="true" id="63" symbol="&lt;globals_PRunView_&lt;&gt;startDistanceCurrentLap&gt;"/>
+<entry field="true" id="96" symbol="&lt;globals_PRunView_&lt;&gt;h4area&gt;"/>
+<entry field="true" id="79" symbol="&lt;globals_PRunView_&lt;&gt;v9&gt;"/>
+<entry field="true" id="108" symbol="&lt;globals_PRunView_&lt;&gt;deviceWidth&gt;"/>
+<entry field="true" id="78" symbol="&lt;globals_PRunView_&lt;&gt;v8&gt;"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="68" symbol="&lt;globals_PRunView_&lt;&gt;middleColumnPercentageSize&gt;"/>
+<entry field="true" id="77" symbol="&lt;globals_PRunView_&lt;&gt;v7&gt;"/>
+<entry field="true" id="95" symbol="&lt;globals_PRunView_&lt;&gt;v3area&gt;"/>
+<entry id="163" method="true" symbol="drawBattery"/>
+<entry field="true" id="120" symbol="OPTION_TIMER_TIME_ON_CURRENT_KM_OR_MILE"/>
+<entry id="155" method="true" symbol="getHeaderName"/>
+<entry field="true" id="76" symbol="&lt;globals_PRunView_&lt;&gt;v6&gt;"/>
+<entry field="true" id="12" symbol="LENGTH_GPS_ICON"/>
+<entry field="true" id="75" symbol="&lt;globals_PRunView_&lt;&gt;v5&gt;"/>
+<entry field="true" id="124" symbol="OPTION_CURRENT_PACE"/>
+<entry field="true" id="74" symbol="&lt;globals_PRunView_&lt;&gt;v4&gt;"/>
+<entry field="true" id="73" symbol="&lt;globals_PRunView_&lt;&gt;v3&gt;"/>
+<entry field="true" id="72" symbol="&lt;globals_PRunView_&lt;&gt;v2&gt;"/>
+<entry field="true" id="83" symbol="&lt;globals_PRunView_&lt;&gt;v3data&gt;"/>
+<entry field="true" id="116" symbol="&lt;globals_PRunView_&lt;&gt;fontMediumNumericValue&gt;"/>
+<entry field="true" id="59" symbol="&lt;globals_PRunView_&lt;&gt;timerLastKM&gt;"/>
+<entry field="true" id="71" symbol="&lt;globals_PRunView_&lt;&gt;v1&gt;"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="130" symbol="OPTION_CALORIES"/>
+<entry id="151" method="true" symbol="calculateETA"/>
+<entry field="true" id="50" symbol="PARAM_HEADER_POSITION"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="141" symbol="OPTION_ETA_MARATHON"/>
+<entry field="true" id="127" symbol="OPTION_AVERAGE_PACE"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry field="true" id="93" symbol="&lt;globals_PRunView_&lt;&gt;v2area&gt;"/>
+<entry field="true" id="100" symbol="&lt;globals_PRunView_&lt;&gt;h6area&gt;"/>
+<entry field="true" id="62" symbol="&lt;globals_PRunView_&lt;&gt;startTimerCurrentLap&gt;"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="14" object="true" symbol="PRunView"/>
+<entry id="161" method="true" symbol="formatDuration"/>
+<entry field="true" id="99" symbol="&lt;globals_PRunView_&lt;&gt;v5area&gt;"/>
+<entry field="true" id="82" symbol="&lt;globals_PRunView_&lt;&gt;v2data&gt;"/>
+<entry field="true" id="69" symbol="&lt;globals_PRunView_&lt;&gt;minPace&gt;"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="70" symbol="&lt;globals_PRunView_&lt;&gt;maxPace&gt;"/>
+<entry field="true" id="60" symbol="&lt;globals_PRunView_&lt;&gt;startTimerCurrentKM&gt;"/>
+<entry field="true" id="113" symbol="&lt;globals_PRunView_&lt;&gt;fontSmallHeader&gt;"/>
+<entry field="true" id="61" symbol="&lt;globals_PRunView_&lt;&gt;distanceOnCurrentKM&gt;"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="114" symbol="&lt;globals_PRunView_&lt;&gt;fontMediumHeader&gt;"/>
+<entry field="true" id="85" symbol="&lt;globals_PRunView_&lt;&gt;v5data&gt;"/>
+<entry id="8389117" method="true" symbol="getWidth"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="8389627" method="true" symbol="getBackgroundColor"/>
+<entry id="158" method="true" symbol="getFont"/>
+<entry field="true" id="67" symbol="&lt;globals_PRunView_&lt;&gt;headerPosition&gt;"/>
+<entry field="true" id="13" symbol="LENGTH_BATTERY_ICON"/>
+<entry field="true" id="142" symbol="OPTION_CURRENT_LAP_TIME"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="132" symbol="OPTION_ALTITUDE"/>
+<entry field="true" id="29" symbol="AppName"/>
+<entry field="true" id="134" symbol="OPTION_TOTAL_DESCENT"/>
+<entry field="true" id="131" symbol="OPTION_CURRENT_CADENCE"/>
+<entry field="true" id="38" symbol="PARAM_MIDDLE_COLUMN_PERCENTAGE_SIZE"/>
+<entry field="true" id="103" symbol="&lt;globals_PRunView_&lt;&gt;v7area&gt;"/>
+<entry field="true" id="109" symbol="&lt;globals_PRunView_&lt;&gt;deviceHeight&gt;"/>
+<entry id="8388647" module="true" symbol="UserProfile"/>
+<entry field="true" id="87" symbol="&lt;globals_PRunView_&lt;&gt;v7data&gt;"/>
+<entry field="true" id="119" symbol="OPTION_TIMER_TIME"/>
+<entry field="true" id="25" symbol="Field28"/>
+<entry field="true" id="47" symbol="Field20"/>
+<entry field="true" id="94" symbol="&lt;globals_PRunView_&lt;&gt;h3area&gt;"/>
+<entry field="true" id="126" symbol="OPTION_AVERAGE_HEART_RATE"/>
+<entry field="true" id="37" symbol="Field17"/>
+<entry field="true" id="33" symbol="Field16"/>
+<entry field="true" id="32" symbol="Field15"/>
+<entry field="true" id="35" symbol="Field14"/>
+<entry field="true" id="34" symbol="Field13"/>
+<entry field="true" id="31" symbol="Field12"/>
+<entry field="true" id="28" symbol="PARAM_HEADER_POSITION_3"/>
+<entry field="true" id="27" symbol="PARAM_HEADER_POSITION_2"/>
+<entry field="true" id="30" symbol="PARAM_HEADER_POSITION_1"/>
+<entry field="true" id="10" symbol="CONVERSION_MILE_TO_KM"/>
+<entry field="true" id="22" symbol="Field08"/>
+<entry field="true" id="26" symbol="Field07"/>
+<entry field="true" id="24" symbol="Field06"/>
+<entry field="true" id="51" symbol="Field05"/>
+<entry field="true" id="52" symbol="Field02"/>
+<entry field="true" id="45" symbol="Field01"/>
+<entry field="true" id="43" symbol="Field00"/>
+<entry field="true" id="20" symbol="Roboto_20_Bold"/>
+<entry field="true" id="143" symbol="OPTION_CURRENT_LAP_DISTANCE"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry id="15" object="true" symbol="PRunApp"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="64" symbol="&lt;globals_PRunView_&lt;&gt;isPaceUnitsImperial&gt;"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="105" symbol="&lt;globals_PRunView_&lt;&gt;v9area&gt;"/>
+<entry field="true" id="139" symbol="OPTION_ETA_10K"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="107" symbol="&lt;globals_PRunView_&lt;&gt;deviceModel&gt;"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="153" method="true" symbol="computeValue"/>
+<entry field="true" id="57" symbol="&lt;globals_PRunView_&lt;&gt;avgSpeed&gt;"/>
+<entry field="true" id="39" symbol="PARAM_APP_VERSION"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="89" symbol="&lt;globals_PRunView_&lt;&gt;v9data&gt;"/>
+<entry field="true" id="91" symbol="&lt;globals_PRunView_&lt;&gt;v1area&gt;"/>
+<entry field="true" id="98" symbol="&lt;globals_PRunView_&lt;&gt;h5area&gt;"/>
+<entry id="159" method="true" symbol="getForegroundColor"/>
+<entry field="true" id="117" symbol="OPTION_EMPTY"/>
+<entry field="true" id="129" symbol="OPTION_AVERAGE_SPEED"/>
+<entry field="true" id="97" symbol="&lt;globals_PRunView_&lt;&gt;v4area&gt;"/>
+<entry field="true" id="80" symbol="&lt;globals_PRunView_&lt;&gt;v10&gt;"/>
+<entry field="true" id="137" symbol="OPTION_CURRENT_LOCATION_ACCURACY_AND_BATTERY"/>
+<entry field="true" id="81" symbol="&lt;globals_PRunView_&lt;&gt;v1data&gt;"/>
+<entry field="true" id="118" symbol="OPTION_CURRENT_TIME"/>
+<entry field="true" id="115" symbol="&lt;globals_PRunView_&lt;&gt;fontSmallNumericValue&gt;"/>
+<entry field="true" id="145" symbol="OPTION_CURRENT_TEMPERATURE"/>
+<entry field="true" id="84" symbol="&lt;globals_PRunView_&lt;&gt;v4data&gt;"/>
+<entry id="147" method="true" symbol="initializeUserData"/>
+<entry field="true" id="128" symbol="OPTION_AVERAGE_PACE_MANUAL_CALC"/>
+<entry id="17" module="true" symbol="Layouts"/>
+<entry id="146" method="true" symbol="getParameter"/>
+<entry field="true" id="144" symbol="OPTION_CURRENT_LAP_PACE"/>
+<entry field="true" id="102" symbol="&lt;globals_PRunView_&lt;&gt;h7area&gt;"/>
+<entry id="150" method="true" symbol="configureID"/>
+<entry id="160" method="true" symbol="formatFloat"/>
+<entry field="true" id="21" symbol="Roboto_14_Bold"/>
+<entry field="true" id="101" symbol="&lt;globals_PRunView_&lt;&gt;v6area&gt;"/>
+<entry field="true" id="136" symbol="OPTION_CURRENT_LOCATION_ACCURACY"/>
+<entry id="152" method="true" symbol="convertUnitIfRequired"/>
+<entry field="true" id="42" symbol="PARAM_AREA7"/>
+<entry field="true" id="49" symbol="PARAM_AREA6"/>
+<entry field="true" id="48" symbol="PARAM_AREA5"/>
+<entry field="true" id="46" symbol="PARAM_AREA4"/>
+<entry field="true" id="44" symbol="PARAM_AREA3"/>
+<entry field="true" id="53" symbol="PARAM_AREA2"/>
+<entry id="157" method="true" symbol="getFormattedValue"/>
+<entry field="true" id="110" symbol="&lt;globals_PRunView_&lt;&gt;fontIcons&gt;"/>
+<entry field="true" id="106" symbol="&lt;globals_PRunView_&lt;&gt;v10area&gt;"/>
+<entry id="162" method="true" symbol="drawGPS"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="156" method="true" symbol="getHour"/>
+<entry field="true" id="65" symbol="&lt;globals_PRunView_&lt;&gt;isDistanceUnitsImperial&gt;"/>
+<entry id="149" method="true" symbol="mergeArea"/>
+<entry field="true" id="133" symbol="OPTION_TOTAL_ASCENT"/>
+<entry field="true" id="41" symbol="PARAM_MIN_PACE"/>
+<entry field="true" id="86" symbol="&lt;globals_PRunView_&lt;&gt;v6data&gt;"/>
+<entry field="true" id="23" symbol="PARAM_MAX_PACE"/>
+<entry field="true" id="9" symbol="CONVERSION_KM_TO_MILE"/>
+<entry field="true" id="56" symbol="&lt;globals_PRunView_&lt;&gt;timer&gt;"/>
+<entry field="true" id="90" symbol="&lt;globals_PRunView_&lt;&gt;v10data&gt;"/>
+<entry field="true" id="92" symbol="&lt;globals_PRunView_&lt;&gt;h2area&gt;"/>
+<entry id="148" method="true" symbol="initDataVariables"/>
+<entry field="true" id="40" symbol="PARAM_HEADER_POSITION_PROMPT"/>
+<entry field="true" id="55" symbol="&lt;globals_PRunView_&lt;&gt;distance&gt;"/>
+<entry id="16" module="true" symbol="Menus"/>
+<entry field="true" id="123" symbol="OPTION_CURRENT_HEART_RATE"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry field="true" id="140" symbol="OPTION_ETA_HALF_MARATHON"/>
+<entry field="true" id="11" symbol="CONVERSION_METER_TO_FEET"/>
+<entry field="true" id="122" symbol="OPTION_ELAPSED_DISTANCE"/>
+<entry field="true" id="121" symbol="OPTION_TIMER_TIME_ON_PREVIOUS_KM_OR_MILE"/>
+<entry field="true" id="19" symbol="Icons"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="58" symbol="&lt;globals_PRunView_&lt;&gt;currentKM&gt;"/>
+<entry id="154" method="true" symbol="displayArea"/>
+<entry field="true" id="135" symbol="OPTION_CURRENT_BATTERY"/>
+<entry field="true" id="104" symbol="&lt;globals_PRunView_&lt;&gt;v8area&gt;"/>
+<entry field="true" id="54" symbol="&lt;globals_PRunView_&lt;&gt;hrZones&gt;"/>
+<entry field="true" id="138" symbol="OPTION_ETA_5K"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="125" symbol="OPTION_CURRENT_SPEED"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435551" name="paramValue" stackId="3" startPc="268435460"/>
+<entry endPc="268435552" name="defaultValue" stackId="2" startPc="268435456"/>
+<entry endPc="268435552" name="paramName" stackId="1" startPc="268435456"/>
+<entry endPc="268436084" name="deviceSettings" stackId="1" startPc="268435556"/>
+<entry endPc="268436295" name="v" stackId="1" startPc="268436085"/>
+<entry endPc="268438572" name="x3" stackId="5" startPc="268436299"/>
+<entry endPc="268438572" name="x2" stackId="4" startPc="268436299"/>
+<entry endPc="268438572" name="x1" stackId="3" startPc="268436299"/>
+<entry endPc="268438572" name="columnWidth" stackId="1" startPc="268436299"/>
+<entry endPc="268438572" name="shrinkValue" stackId="2" startPc="268436299"/>
+<entry endPc="268438572" name="mergeArray" stackId="16" startPc="268436299"/>
+<entry endPc="268438572" name="y2h" stackId="15" startPc="268436299"/>
+<entry endPc="268438572" name="headerHeight" stackId="6" startPc="268436299"/>
+<entry endPc="268438572" name="valueHeight" stackId="7" startPc="268436299"/>
+<entry endPc="268438572" name="y4" stackId="11" startPc="268436299"/>
+<entry endPc="268438572" name="y3" stackId="10" startPc="268436299"/>
+<entry endPc="268438572" name="y1h" stackId="14" startPc="268436299"/>
+<entry endPc="268438572" name="y2" stackId="9" startPc="268436299"/>
+<entry endPc="268438572" name="y1" stackId="8" startPc="268436299"/>
+<entry endPc="268438572" name="columnWidth3" stackId="13" startPc="268436299"/>
+<entry endPc="268438572" name="columnWidth2" stackId="12" startPc="268436299"/>
+<entry endPc="268438985" name="v1area" stackId="5" startPc="268438573"/>
+<entry endPc="268438985" name="h3area" stackId="8" startPc="268438573"/>
+<entry endPc="268438985" name="h2area" stackId="6" startPc="268438573"/>
+<entry endPc="268438985" name="v3" stackId="3" startPc="268438573"/>
+<entry endPc="268438985" name="v2" stackId="2" startPc="268438573"/>
+<entry endPc="268438985" name="h1area" stackId="4" startPc="268438573"/>
+<entry endPc="268438985" name="v1" stackId="1" startPc="268438573"/>
+<entry endPc="268438985" name="v3area" stackId="9" startPc="268438573"/>
+<entry endPc="268438985" name="v2area" stackId="7" startPc="268438573"/>
+<entry endPc="268438990" name="dc" stackId="1" startPc="268438985"/>
+<entry endPc="268439289" name="selectedOption" stackId="2" startPc="268439044"/>
+<entry endPc="268439289" name="id" stackId="1" startPc="268439044"/>
+<entry endPc="268439399" name="remainingDistance" stackId="5" startPc="268439293"/>
+<entry endPc="268439400" name="valueData" stackId="4" startPc="268439289"/>
+<entry endPc="268439400" name="nextGoalOption" stackId="3" startPc="268439289"/>
+<entry endPc="268439400" name="distanceGoal" stackId="2" startPc="268439289"/>
+<entry endPc="268439400" name="id" stackId="1" startPc="268439289"/>
+<entry endPc="268439425" name="mustConvert" stackId="3" startPc="268439400"/>
+<entry endPc="268439425" name="v" stackId="1" startPc="268439400"/>
+<entry endPc="268439425" name="convertionFactor" stackId="2" startPc="268439400"/>
+<entry endPc="268440351" name="lapTimer" stackId="5" startPc="268440287"/>
+<entry endPc="268440351" name="lapDistance" stackId="6" startPc="268440287"/>
+<entry endPc="268441115" name="valueData" stackId="4" startPc="268439425"/>
+<entry endPc="268441115" name="value" stackId="3" startPc="268439425"/>
+<entry endPc="268441115" name="info" stackId="1" startPc="268439425"/>
+<entry endPc="268441115" name="id" stackId="2" startPc="268439425"/>
+<entry endPc="268441540" name="info" stackId="1" startPc="268441115"/>
+<entry endPc="268442591" name="dc" stackId="1" startPc="268441540"/>
+<entry endPc="268443309" name="headerY" stackId="10" startPc="268442645"/>
+<entry endPc="268443309" name="headerX" stackId="9" startPc="268442645"/>
+<entry endPc="268443899" name="y" stackId="13" startPc="268443646"/>
+<entry endPc="268444281" name="batteryLength" stackId="15" startPc="268444144"/>
+<entry endPc="268444281" name="gpsLength" stackId="14" startPc="268444144"/>
+<entry endPc="268444688" name="textLength" stackId="18" startPc="268444504"/>
+<entry endPc="268444688" name="iconLength" stackId="17" startPc="268444504"/>
+<entry endPc="268444765" name="formattedValue" stackId="16" startPc="268444415"/>
+<entry endPc="268444777" name="rightOffsetX" stackId="8" startPc="268442595"/>
+<entry endPc="268444777" name="valueY" stackId="12" startPc="268442595"/>
+<entry endPc="268444777" name="leftOffsetX" stackId="7" startPc="268442595"/>
+<entry endPc="268444777" name="valueX" stackId="11" startPc="268442595"/>
+<entry endPc="268444778" name="valueArea" stackId="6" startPc="268442591"/>
+<entry endPc="268444778" name="dc" stackId="1" startPc="268442591"/>
+<entry endPc="268444778" name="headerArea" stackId="5" startPc="268442591"/>
+<entry endPc="268444778" name="type" stackId="3" startPc="268442591"/>
+<entry endPc="268444778" name="value" stackId="4" startPc="268442591"/>
+<entry endPc="268444778" name="id" stackId="2" startPc="268442591"/>
+<entry endPc="268445614" name="type" stackId="1" startPc="268444778"/>
+<entry endPc="268445704" name="currentHour" stackId="2" startPc="268445618"/>
+<entry endPc="268445705" name="h" stackId="1" startPc="268445614"/>
+<entry endPc="268446296" name="type" stackId="2" startPc="268445705"/>
+<entry endPc="268446296" name="value" stackId="3" startPc="268445705"/>
+<entry endPc="268446296" name="id" stackId="1" startPc="268445705"/>
+<entry endPc="268446626" name="fontID" stackId="5" startPc="268446300"/>
+<entry endPc="268446626" name="textWidth" stackId="6" startPc="268446300"/>
+<entry endPc="268446627" name="dc" stackId="1" startPc="268446296"/>
+<entry endPc="268446627" name="maxWidth" stackId="4" startPc="268446296"/>
+<entry endPc="268446627" name="value" stackId="3" startPc="268446296"/>
+<entry endPc="268446627" name="id" stackId="2" startPc="268446296"/>
+<entry endPc="268446770" name="backgroundColor2" stackId="3" startPc="268446631"/>
+<entry endPc="268446770" name="backgroundColor1" stackId="2" startPc="268446631"/>
+<entry endPc="268446771" name="id" stackId="1" startPc="268446627"/>
+<entry endPc="268447369" name="foregroundColor2" stackId="5" startPc="268446775"/>
+<entry endPc="268447369" name="foregroundColor1" stackId="4" startPc="268446775"/>
+<entry endPc="268447370" name="type" stackId="2" startPc="268446771"/>
+<entry endPc="268447370" name="value" stackId="3" startPc="268446771"/>
+<entry endPc="268447370" name="id" stackId="1" startPc="268446771"/>
+<entry endPc="268447550" name="radius" stackId="2" startPc="268447411"/>
+<entry endPc="268447550" name="angle" stackId="3" startPc="268447411"/>
+<entry endPc="268447563" name="y" stackId="1" startPc="268447370"/>
+<entry endPc="268447658" name="f" stackId="1" startPc="268447563"/>
+<entry endPc="268447888" name="ss" stackId="5" startPc="268447662"/>
+<entry endPc="268447888" name="hh" stackId="3" startPc="268447662"/>
+<entry endPc="268447888" name="mm" stackId="4" startPc="268447662"/>
+<entry endPc="268447889" name="seconds" stackId="1" startPc="268447658"/>
+<entry endPc="268447889" name="displayHour" stackId="2" startPc="268447658"/>
+<entry endPc="268448797" name="height" stackId="6" startPc="268447893"/>
+<entry endPc="268448797" name="x1" stackId="7" startPc="268447893"/>
+<entry endPc="268448797" name="barWidth" stackId="10" startPc="268447893"/>
+<entry endPc="268448797" name="y1" stackId="8" startPc="268447893"/>
+<entry endPc="268448797" name="space" stackId="9" startPc="268447893"/>
+<entry endPc="268448798" name="gpsAccuracy" stackId="5" startPc="268447889"/>
+<entry endPc="268448798" name="x" stackId="2" startPc="268447889"/>
+<entry endPc="268448798" name="dc" stackId="1" startPc="268447889"/>
+<entry endPc="268448798" name="width" stackId="4" startPc="268447889"/>
+<entry endPc="268448798" name="y" stackId="3" startPc="268447889"/>
+<entry endPc="268449408" name="width4" stackId="12" startPc="268449198"/>
+<entry endPc="268449408" name="width3" stackId="11" startPc="268449198"/>
+<entry endPc="268449485" name="radius" stackId="8" startPc="268448802"/>
+<entry endPc="268449485" name="height" stackId="7" startPc="268448802"/>
+<entry endPc="268449485" name="x1" stackId="9" startPc="268448802"/>
+<entry endPc="268449485" name="y1" stackId="10" startPc="268448802"/>
+<entry endPc="268449486" name="x" stackId="2" startPc="268448798"/>
+<entry endPc="268449486" name="dc" stackId="1" startPc="268448798"/>
+<entry endPc="268449486" name="batteryPercentage" stackId="5" startPc="268448798"/>
+<entry endPc="268449486" name="width" stackId="4" startPc="268448798"/>
+<entry endPc="268449486" name="fixedBackground" stackId="6" startPc="268448798"/>
+<entry endPc="268449486" name="y" stackId="3" startPc="268448798"/>
+<entry endPc="268449514" name="state" stackId="1" startPc="268449509"/>
+<entry endPc="268449519" name="state" stackId="1" startPc="268449514"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="getParameter" parent="PRunView">
+<param id="paramName"/>
+<param id="defaultValue"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initializeUserData" parent="PRunView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initDataVariables" parent="PRunView">
+<param id="v"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PRunView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="mergeArea" parent="PRunView">
+<param id="v1"/>
+<param id="v2"/>
+<param id="v3"/>
+<param id="h1area"/>
+<param id="v1area"/>
+<param id="h2area"/>
+<param id="v2area"/>
+<param id="h3area"/>
+<param id="v3area"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PRunView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerLap" parent="PRunView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onWorkoutStepComplete" parent="PRunView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="configureID" parent="PRunView">
+<param id="id"/>
+<param id="selectedOption"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calculateETA" parent="PRunView">
+<param id="id"/>
+<param id="distanceGoal"/>
+<param id="nextGoalOption"/>
+<param id="valueData"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="convertUnitIfRequired" parent="PRunView">
+<param id="v"/>
+<param id="convertionFactor"/>
+<param id="mustConvert"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="computeValue" parent="PRunView">
+<param id="info"/>
+<param id="id"/>
+<param id="value"/>
+<param id="valueData"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="PRunView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PRunView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displayArea" parent="PRunView">
+<param id="dc"/>
+<param id="id"/>
+<param id="type"/>
+<param id="value"/>
+<param id="headerArea"/>
+<param id="valueArea"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHeaderName" parent="PRunView">
+<param id="type"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHour" parent="PRunView">
+<param id="h"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getFormattedValue" parent="PRunView">
+<param id="id"/>
+<param id="type"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getFont" parent="PRunView">
+<param id="dc"/>
+<param id="id"/>
+<param id="value"/>
+<param id="maxWidth"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBackgroundColor" parent="PRunView">
+<param id="id"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getForegroundColor" parent="PRunView">
+<param id="id"/>
+<param id="type"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getWidth" parent="PRunView">
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="formatFloat" parent="PRunView">
+<param id="f"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="formatDuration" parent="PRunView">
+<param id="seconds"/>
+<param id="displayHour"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawGPS" parent="PRunView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="width"/>
+<param id="gpsAccuracy"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBattery" parent="PRunView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="width"/>
+<param id="batteryPercentage"/>
+<param id="fixedBackground"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PRunApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="PRunApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="PRunApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="PRunApp">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="206" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="285" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="324" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="355" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="410" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="441" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="472" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="759" parentId="globals" symbolId="PRunApp" type="class"/>
+<dataEntry offset="830" parentId="globals" symbolId="PRunView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

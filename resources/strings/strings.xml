@@ -1,6 +1,6 @@
 <strings>
-  <string id="AppName">PBike</string>
-  <string id="PARAM_APP_VERSION">PBike Version</string>
+  <string id="AppName">PRun</string>
+  <string id="PARAM_APP_VERSION">PRun Version</string>
   <string id="DeviceModel">Unknown</string>
   
   <string id="PARAM_HEADER_POSITION">Header Position</string>

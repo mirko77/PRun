@@ -1,6 +1,6 @@
 using Toybox.Application;
 
-class PBikeApp extends Application.AppBase
+class PRunApp extends Application.AppBase
 {
   function initialize()
   {
@@ -18,6 +18,6 @@ class PBikeApp extends Application.AppBase
 
   function getInitialView()
   {
-    return [ new PBikeView() ];
+    return [ new PRunView() ];
   }
 }
