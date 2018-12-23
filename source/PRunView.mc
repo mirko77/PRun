@@ -1721,15 +1721,6 @@ class PRunView extends WatchUi.DataField
         else if (value < hrZones[3]) { return 0x00AA00; } // Green
         else if (value < hrZones[4]) { return 0xFF5500; } // Orange
         return 0xFF0000;                                  // Red
-        
-      case OPTION_CURRENT_PACE:
-      case OPTION_AVERAGE_PACE:
-      case OPTION_AVERAGE_PACE_MANUAL_CALC:
-      case OPTION_CURRENT_LAP_PACE:
-        if (value <= 0) { return ((id >= 2) && (id <= 9)) ? foregroundColor2 : foregroundColor1; }
-        else if (value < minPace) { return Graphics.COLOR_BLUE; }
-        else if (value > maxPace) { return Graphics.COLOR_RED; }
-        return Graphics.COLOR_DK_GREEN;
     }
     
     if ( ((id >= 2) && (id <= 9)) ) { return foregroundColor2; }
